@@ -7,7 +7,8 @@ American Printing House for the Blind, shares a [__video on indoor mapping via Y
 
 Digital Ocean's __Jeff McAdams'__ [__OSM presentation__](https://docs.google.com/presentation/d/1FtykssLTf_zCTIw3DBRXOmhaSdd_vpWgPfUkO6cXIbo/edit#slide=id.p )
 
-Come out to [__Maker13__](https://www.maker13.com/) every 3rd Saturday of the month from 1pm-3pm, network, meet in person and help contribute to the project at our monthly #HackTheVille with [__Civic Data Alliance__](http://www.civicdataalliance.org/) and [__Data for Democracy__](https://www.datafordemocracy.org/)
+
+Come out to [__Maker13__](https://www.maker13.com/) every 3rd Saturday of the month from 1pm-3pm to network, meet in person and help contribute to the project at our monthly #HackTheVille with [__Civic Data Alliance__](http://www.civicdataalliance.org/) and [__Data for Democracy__](https://www.datafordemocracy.org/).
 
 RSVP for these events via any of these links:
 
