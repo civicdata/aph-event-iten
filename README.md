@@ -12,5 +12,7 @@ Come out to [__Maker13__](https://www.maker13.com/) every 3rd Saturday of the mo
 RSVP for these events via any of these links:
 
  [__Civic Data Alliance__](https://www.meetup.com/Civic-Data-Alliance/)
+ 
 [__Data for Democracy__](https://www.meetup.com/Data-for-Democracy-Louisville/)
+
  [__Louisville Software Engineering__](https://www.meetup.com/Louisville-Software-Engineering/)
